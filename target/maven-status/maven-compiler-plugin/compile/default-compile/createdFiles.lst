@@ -1,0 +1,4 @@
+com\ge\far\entity\User.class
+com\ge\far\FarAppApplication.class
+com\ge\far\repository\UserRepository.class
+com\ge\far\ServletInitializer.class
